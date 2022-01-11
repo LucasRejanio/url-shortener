@@ -1,4 +1,3 @@
-from pyshorteners import Shortener
 from modules.shortner import Shortener
 
 def main():
